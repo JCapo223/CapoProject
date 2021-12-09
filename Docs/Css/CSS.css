@@ -1,0 +1,57 @@
+body{
+background-color: #4287f5;
+}
+
+#topbox{
+background-color: #bdd6ff;
+border: 5px solid #bdd6ff;
+text-align: center;
+}
+
+#midbox{
+background-color: #2255a8;
+border: 5px solid #4287f5;
+}
+
+#gamesbox{
+background-color: #85b4ff;
+}
+
+#linkT{
+color: black;
+}
+
+#gameT{
+background-color: #bdd6ff;
+border: 5px solid #bdd6ff;
+text-align: center;
+}
+
+#gameP{
+background-color: #2255a8;
+}
+
+#gameI{
+background-color: #85b4ff;
+}
+
+#GI1{
+}
+
+#GI2{
+}
+
+#GI3{
+}
+
+#Mdesc{
+color: #dbdbdb
+}
+
+img {
+max-width: 300;
+border-style: solid;
+border-color: black;
+border-width: 1;
+margin: 5;
+}
